@@ -1,0 +1,50 @@
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<script>
+function Form()
+{
+ var x = document.getElementById("name").value;
+ var y = document.getElementById("number").value;
+
+if(x=="")
+{
+alert('pls enter the details');
+return false;
+}
+if(y=="")
+{
+alert("pls enter the numeric value");
+return false;
+}
+alert("all data validated");
+return true;  
+}
+</script>
+</head>
+<body>
+
+<form >
+
+<b>  Item name<span style="color:red;">*</span>:<input type="text" name="first" id="name"></b><br><br>
+
+<b> Item code<span style="color:red;">*</span>:<input type="text" id="name"></b><br><br>
+<b> Item desp:<input type="text" name="first"></b><br><br>
+
+<b>Item catg <span style="color:red;">*</span>:</b><br>
+<input type="checkbox" >food<br><br>
+<input type="checkbox" value="electrical">elec<br><br>
+
+
+<b> Packed date<span style="color:red;">*</span>:<input type="text" name="first" id="number"></b><br><br>
+<b> Expiry date<span style="color:red;">*</span>:<input type="text" name="first" id="number"></b><br><br>
+<b> Price:<input type="text" name="first"></b><br><br>
+<b>Avilable in store :</b><br>
+ <input type="radio" > Yes<br>
+  <input type="radio" name="gender" value="female"> No<br>
+<input type="submit" value="Submit" onclick="return Form()">
+</form>
+
+</body>
+</html>
